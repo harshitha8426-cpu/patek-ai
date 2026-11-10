@@ -1,0 +1,6 @@
+{
+  "name": "PATEK AI",
+  "description": "Autonomous multi-agent AI platform for pre-meeting research and intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
