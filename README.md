@@ -207,7 +207,4 @@ Contributions are welcome. If you want to improve the platform, feel free to:
 
 This repository is a working internal-style prototype for AI-driven meeting intelligence and strategic briefing generation. It is suitable for experimentation, demos, and extension into a broader research assistant product.
 
-## Important
-
-The repository does not currently include an explicit software license file. If you plan to distribute or commercialize the project, add a license appropriate for your use case before publishing externally.
 
